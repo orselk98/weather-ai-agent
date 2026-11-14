@@ -1,0 +1,18 @@
+# Virtual environment: large, machine-specific, recreated from requirements.txt
+.venv/
+
+# Python's automatic cache files
+__pycache__/
+
+# Secrets, in case you ever store keys in a file
+.env
+
+# macOS system files
+.DS_Store
+
+# Editor settings (personal to your machine)
+.vscode/
+*.code-workspace
+
+# Local backups (Git keeps history from now on)
+*_backup.py
